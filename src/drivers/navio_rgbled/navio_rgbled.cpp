@@ -47,9 +47,9 @@ RGBLED::RGBLED(const char *name)
 		 RGBLED_BASE_DEVICE_PATH,
 		 DeviceBusType_UNKNOWN,
 		 0)
-	, _gpioR(4)
-	, _gpioG(27)
-	, _gpioB(6)
+    , _gpioR(437)
+    , _gpioG(397)
+    , _gpioB(403)
 {
 };
 
