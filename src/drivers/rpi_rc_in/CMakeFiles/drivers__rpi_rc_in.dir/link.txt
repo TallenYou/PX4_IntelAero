@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__rpi_rc_in.a  CMakeFiles/drivers__rpi_rc_in.dir/rpi_rc_in.cpp.o
+/usr/bin/ranlib libdrivers__rpi_rc_in.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__aero_pwm_out.a  CMakeFiles/drivers__aero_pwm_out.dir/aero_pwm_out.cpp.o
+/usr/bin/ranlib libdrivers__aero_pwm_out.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__aero_sbus.a  CMakeFiles/drivers__aero_sbus.dir/aero_sbus.cpp.o
+/usr/bin/ranlib libdrivers__aero_sbus.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__linux_sbus.a  CMakeFiles/drivers__linux_sbus.dir/linux_sbus.cpp.o
+/usr/bin/ranlib libdrivers__linux_sbus.a
