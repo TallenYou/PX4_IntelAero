@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplatforms__posix__drivers__df_bmi160_wrapper.a  CMakeFiles/platforms__posix__drivers__df_bmi160_wrapper.dir/df_bmi160_wrapper.cpp.o
+/usr/bin/ranlib libplatforms__posix__drivers__df_bmi160_wrapper.a
